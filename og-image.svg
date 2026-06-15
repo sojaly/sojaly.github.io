@@ -1,0 +1,31 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- background -->
+  <rect width="1200" height="630" fill="#0D7377"/>
+  <rect width="1200" height="630" fill="url(#grad)"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#095456"/>
+      <stop offset="1" stop-color="#0D7377"/>
+    </linearGradient>
+  </defs>
+
+  <!-- mark, left -->
+  <g transform="translate(96, 150)">
+    <rect width="220" height="220" rx="48" fill="#0A6164"/>
+    <g transform="translate(110, 110) scale(0.40) translate(-256,-256)">
+      <path d="M256 80L96 144v96c0 103 68.3 199.4 160 226.7C407.7 439.4 416 343 416 240v-96L256 80z" fill="#ffffff" fill-opacity="0.16"/>
+      <path d="M256 80L96 144v96c0 103 68.3 199.4 160 226.7C407.7 439.4 416 343 416 240v-96L256 80z" stroke="#ffffff" stroke-width="26" fill="none" stroke-linejoin="round"/>
+      <path d="M184 256l48 48 96-112" stroke="#E5A625" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+  </g>
+
+  <!-- wordmark + tagline -->
+  <text x="372" y="258" font-family="'DejaVu Sans', sans-serif" font-size="84" font-weight="800" fill="#FFFFFF">Sojaly</text>
+  <text x="374" y="324" font-family="'DejaVu Sans', sans-serif" font-size="33" font-weight="400" fill="#B8E3E4">Visitor &amp; access management for Africa</text>
+  <text x="374" y="378" font-family="'DejaVu Sans', sans-serif" font-size="27" font-weight="400" fill="#D6ECEC">Smart passes, booking and verification at the gate.</text>
+
+  <!-- footer strip -->
+  <rect x="0" y="566" width="1200" height="64" fill="#E5A625"/>
+  <text x="96" y="607" font-family="'DejaVu Sans', sans-serif" font-size="28" font-weight="700" fill="#1A1D21">sojaly.cseco.co.ke</text>
+  <text x="1104" y="607" text-anchor="end" font-family="'DejaVu Sans', sans-serif" font-size="24" font-weight="400" fill="#1A1D21">Verify anyone at the gate</text>
+</svg>
