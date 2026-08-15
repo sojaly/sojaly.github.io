@@ -1,0 +1,31 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0B2325"/>
+  <circle cx="1120" cy="80" r="220" stroke="#0FB5BA" stroke-width="2" stroke-dasharray="2 10" opacity="0.5" fill="none"/>
+  <circle cx="1120" cy="80" r="150" stroke="#0FB5BA" stroke-width="2" stroke-dasharray="2 10" opacity="0.3" fill="none"/>
+
+  <!-- brand mark -->
+  <g transform="translate(80,72)">
+    <rect x="0" y="10" width="72" height="52" rx="10" stroke="#0FB5BA" stroke-width="5.5"/>
+    <circle cx="22" cy="31" r="8" stroke="#FBFDFC" stroke-width="5"/>
+    <path d="M10 52c3-6.5 7.3-10 12-10s9 3.5 12 10" stroke="#FBFDFC" stroke-width="5" stroke-linecap="round"/>
+    <path d="M45 27h17M45 38h12" stroke="#0FB5BA" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="66" cy="56" r="15" fill="#1F9D6C"/>
+    <path d="M59.5 56l4.5 4.5 8.5-9.5" stroke="#FBFDFC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="94" y="52" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" fill="#FBFDFC" letter-spacing="-1">Sojaly</text>
+  </g>
+
+  <text x="80" y="300" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" fill="#FBFDFC" letter-spacing="-1.5">Verified identity for</text>
+  <text x="80" y="378" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" fill="#FBFDFC" letter-spacing="-1.5">the digital world</text>
+
+  <text x="80" y="440" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#86A09D">Sign-in, age, location and presence — verified without handing over the data.</text>
+
+  <!-- exchange motif -->
+  <g transform="translate(80,490)">
+    <rect x="0" y="0" width="250" height="58" rx="12" fill="#12393C"/>
+    <text x="22" y="37" font-family="Courier New, monospace" font-size="24" fill="#FBFDFC">over_18 ?</text>
+    <line x1="266" y1="29" x2="420" y2="29" stroke="#0FB5BA" stroke-width="3" stroke-dasharray="3 9"/>
+    <rect x="436" y="8" width="116" height="42" rx="21" fill="#1F9D6C"/>
+    <text x="466" y="36" font-family="Courier New, monospace" font-size="22" font-weight="bold" fill="#FBFDFC">YES</text>
+    <text x="580" y="36" font-family="Courier New, monospace" font-size="20" fill="#86A09D">sojaly.cseco.co.ke</text>
+  </g>
+</svg>
